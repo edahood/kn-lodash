@@ -1,0 +1,31 @@
+{
+  "name": "kn-lodash",
+  "version": "0.1.0",
+  "description": "An Angular module wrapper for lodash. Based on ng-lodash.",
+  "author": ["Eliot <eliot@knetik.com> (http://knetik.com)"],
+  "license": "MIT",
+  "keywords": [
+    "knlodash",
+    "angular",
+    "lodash"
+  ],
+  "ignore": [
+    "test",
+    "*.",
+    "karma.conf.js",
+    "Gruntfile.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/edahood/kn-lodash.git"
+  },
+  "main": [
+    "build/kn-lodash.js"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "angular-mocks": ">=1.3",
+    "angular": ">=1.3"
+  }
+}
