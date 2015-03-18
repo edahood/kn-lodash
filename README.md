@@ -6,9 +6,10 @@ kn-lodash
 
 This is a wrapper for the utility library [Lo-Dash](http://lodash.com/) for
 Angular JS. One aim for this project is to ensure Lo-Dash doesn't have to be
-left on the window, and we use Lo-Dash with Angular, in the normal depenedency injection manner. [homepage](https://github.com/edahood/kn-lodash.git)
+left on the window, and we use Lo-Dash with Angular, in the normal depenedency injection manner.
+Homepage: [https://github.com/edahood/kn-lodash.git](https://github.com/edahood/kn-lodash.git)
 
-This is based on [ng-lodash](https://github.com/rockabox/ng-lodash) by Rockabox <tech@rockabox.com> (http://rockabox.com)
+
 
 ## Installing
 Install via bower
@@ -59,3 +60,7 @@ This command will build the module initially and then run the test suite.
 Testing with JSHint, JSCS and Karma:
 
 ```grunt dist```
+
+### Credits
+
+This is based on [ng-lodash](https://github.com/rockabox/ng-lodash) by Rockabox <tech@rockabox.com> (http://rockabox.com)
